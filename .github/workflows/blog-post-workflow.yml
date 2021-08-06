@@ -12,3 +12,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@bretcameron"
+          max_post_count: 10
+          comment_tag_name: BLOG-POST-LIST
