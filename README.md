@@ -35,4 +35,9 @@ I’m currently a software engineer at [YuLife](https://yulife.com/), where I’
 - [The Power and Limitations of JavaScript Promise.all](https://betterprogramming.pub/the-power-and-limitations-of-javascript-promise-all-6e1b53520e50?source=rss-d4a4110b5d57------2)
 - [5 Lessons I Learned in My First 2 Years of Programming](https://betterprogramming.pub/5-lessons-i-learned-in-my-first-2-years-of-programming-18e43c652367?source=rss-d4a4110b5d57------2)
 - [4 New JavaScript Features To Watch Out for in 2021](https://betterprogramming.pub/4-new-javascript-features-to-watch-out-for-in-2021-36b7d7d08745?source=rss-d4a4110b5d57------2)
+- [Singletons in JavaScript](https://medium.com/@bretcameron/singletons-in-javascript-59655927b7d7?source=rss-d4a4110b5d57------2)
+- [A Quick Guide to React with TypeScript](https://medium.com/@bretcameron/a-quick-guide-to-react-with-typescript-313fccd9ad89?source=rss-d4a4110b5d57------2)
+- [11 Ways to Make Your ES6+ JavaScript More Concise](https://medium.com/@bretcameron/11-ways-to-make-your-es6-javascript-more-concise-a8b67087f06?source=rss-d4a4110b5d57------2)
+- [Using TypeScript with MongoDB](https://medium.com/swlh/using-typescript-with-mongodb-393caf7adfef?source=rss-d4a4110b5d57------2)
+- [Installing MongoDB on macOS Catalina](https://betterprogramming.pub/installing-mongodb-on-macos-catalina-aab1cbe0c836?source=rss-d4a4110b5d57------2)
 <!-- BLOG-POST-LIST:END -->
