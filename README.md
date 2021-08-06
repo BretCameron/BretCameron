@@ -29,4 +29,7 @@ I’m currently a software engineer at [YuLife](https://yulife.com/), where I’
 
 ## Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 https://medium.com/feed/@bretcameron
