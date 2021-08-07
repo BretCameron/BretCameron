@@ -30,7 +30,6 @@ I’m currently a software engineer at [YuLife](https://yulife.com/), where I’
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [7 VS Code Tricks I Learned From My Colleagues](https://betterprogramming.pub/7-vs-code-tricks-i-learned-from-my-colleagues-6abb340601b4?source=rss-d4a4110b5d57------2)
 - [Why the Dunning-Kruger Curves You’ve Seen Are Wrong](https://medium.com/curious/why-the-dunning-kruger-curves-youve-seen-are-wrong-beb944668aef?source=rss-d4a4110b5d57------2)
 - [The Power and Limitations of JavaScript Promise.all](https://betterprogramming.pub/the-power-and-limitations-of-javascript-promise-all-6e1b53520e50?source=rss-d4a4110b5d57------2)
