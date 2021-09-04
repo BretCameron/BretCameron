@@ -12,7 +12,7 @@ I’m a full-stack web developer and writer based in London, UK. 💻
 
 ## Open Source
 
-I am the author of an open source plugin for the Sanity CMS, [Order Documents](https://github.com/BretCameron/sanity-plugin-order-documents), with over 20,000 downloads! 📈
+I am the author of an open source plugin for the Sanity CMS, [Order Documents](https://github.com/BretCameron/sanity-plugin-order-documents), with over 26,000 all-time downloads! 📈
 
 ## Technologies
 
